@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return type deduction for n
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decltype(auto)", "decltype(auto)\decltype(auto).vcxproj", "{B1355B1E-235A-4C5B-BD73-D71F6EA6CB29}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "init-capture", "init-capture\init-capture.vcxproj", "{B6AD836E-8446-419F-BA18-35441B5B6444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B1355B1E-235A-4C5B-BD73-D71F6EA6CB29}.Release|x64.Build.0 = Release|x64
 		{B1355B1E-235A-4C5B-BD73-D71F6EA6CB29}.Release|x86.ActiveCfg = Release|Win32
 		{B1355B1E-235A-4C5B-BD73-D71F6EA6CB29}.Release|x86.Build.0 = Release|Win32
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Debug|x64.ActiveCfg = Debug|x64
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Debug|x64.Build.0 = Debug|x64
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Debug|x86.Build.0 = Debug|Win32
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Release|x64.ActiveCfg = Release|x64
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Release|x64.Build.0 = Release|x64
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Release|x86.ActiveCfg = Release|Win32
+		{B6AD836E-8446-419F-BA18-35441B5B6444}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
