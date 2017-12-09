@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "init-capture", "init-captur
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generic Lambda", "Generic Lambda\Generic Lambda.vcxproj", "{2E70752B-09A6-44AA-9A69-FBF1D2CEDA65}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variable Templates", "Variable Templates\Variable Templates.vcxproj", "{3F749A1A-0026-45EA-9C12-37D479C6A7B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{2E70752B-09A6-44AA-9A69-FBF1D2CEDA65}.Release|x64.Build.0 = Release|x64
 		{2E70752B-09A6-44AA-9A69-FBF1D2CEDA65}.Release|x86.ActiveCfg = Release|Win32
 		{2E70752B-09A6-44AA-9A69-FBF1D2CEDA65}.Release|x86.Build.0 = Release|Win32
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Debug|x64.ActiveCfg = Debug|x64
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Debug|x64.Build.0 = Debug|x64
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Debug|x86.Build.0 = Debug|Win32
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Release|x64.ActiveCfg = Release|x64
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Release|x64.Build.0 = Release|x64
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Release|x86.ActiveCfg = Release|Win32
+		{3F749A1A-0026-45EA-9C12-37D479C6A7B0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
