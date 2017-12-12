@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "deprecated attribute", "dep
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Digit Separators", "Digit Separators\Digit Separators.vcxproj", "{36AF1A58-BC79-437F-986B-A7DF922C54A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sized Deallocation", "Sized Deallocation\Sized Deallocation.vcxproj", "{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{36AF1A58-BC79-437F-986B-A7DF922C54A3}.Release|x64.Build.0 = Release|x64
 		{36AF1A58-BC79-437F-986B-A7DF922C54A3}.Release|x86.ActiveCfg = Release|Win32
 		{36AF1A58-BC79-437F-986B-A7DF922C54A3}.Release|x86.Build.0 = Release|Win32
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Debug|x64.ActiveCfg = Debug|x64
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Debug|x64.Build.0 = Debug|x64
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Debug|x86.Build.0 = Debug|Win32
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Release|x64.ActiveCfg = Release|x64
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Release|x64.Build.0 = Release|x64
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Release|x86.ActiveCfg = Release|Win32
+		{383C64E8-BD9D-4C1A-972A-FEC01307B2A9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
