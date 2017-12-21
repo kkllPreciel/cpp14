@@ -15,6 +15,8 @@ int main()
     auto seconds_f      = 3.1s;     // •‚“®¬”“_Œ^‚Ì3.1•b
     auto minutes_i      = 3min;     // ®”Œ^‚Ì3•ª
     auto minutes_f      = 3.1min;   // •‚“®¬”“_Œ^‚Ì3.1•ª
+    auto hours_i        = 3h;       // ®”Œ^‚Ì3ŠÔ
+    auto hours_f        = 3.1h;     // •‚“®¬”“_Œ^‚Ì3.1ŠÔ
 
     std::cout << nanoseconds_i.count() << std::endl;
     std::cout << nanoseconds_f.count() << std::endl;
@@ -26,6 +28,8 @@ int main()
     std::cout << seconds_f.count() << std::endl;
     std::cout << minutes_i.count() << std::endl;
     std::cout << minutes_f.count() << std::endl;
+    std::cout << hours_i.count() << std::endl;
+    std::cout << hours_f.count() << std::endl;
 
     return 0;
 }
