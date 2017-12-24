@@ -13,5 +13,9 @@ int main()
     std::complex<float> cif = 1.0if;
     std::cout << cif << std::endl;
 
+    // 実部0.0L、虚部1.0Lの複素数オブジェクトを作る
+    std::complex<long double> cil = 1.0il;
+    std::cout << cil << std::endl;
+
     return 0;
 }
