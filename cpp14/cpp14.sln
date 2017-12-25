@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2010
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "literal", "literal\literal.vcxproj", "{B49ACD8E-085F-4067-B1AE-8A3788D76EF0}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chrono Literals", "Chrono Literals\Chrono Literals.vcxproj", "{0833A8F6-9976-445B-BB8E-4F1090A4BF51}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Complex Literals", "Complex Literals\Complex Literals.vcxproj", "{64BF04A7-7700-4D3D-832C-F2E0C1B0EBF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "std shared_mutex", "std shared_mutex\std shared_mutex.vcxproj", "{AEFCA338-F2D9-4AE2-87E8-66662944F710}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -151,6 +153,14 @@ Global
 		{64BF04A7-7700-4D3D-832C-F2E0C1B0EBF0}.Release|x64.Build.0 = Release|x64
 		{64BF04A7-7700-4D3D-832C-F2E0C1B0EBF0}.Release|x86.ActiveCfg = Release|Win32
 		{64BF04A7-7700-4D3D-832C-F2E0C1B0EBF0}.Release|x86.Build.0 = Release|Win32
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Debug|x64.ActiveCfg = Debug|x64
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Debug|x64.Build.0 = Debug|x64
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Debug|x86.Build.0 = Debug|Win32
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Release|x64.ActiveCfg = Release|x64
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Release|x64.Build.0 = Release|x64
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Release|x86.ActiveCfg = Release|Win32
+		{AEFCA338-F2D9-4AE2-87E8-66662944F710}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
